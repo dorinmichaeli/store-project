@@ -1,0 +1,3 @@
+- Logout button.
+- Search controls?
+- Graph -> group by

@@ -1,0 +1,24 @@
+{
+	"private": true,
+	"name": "server",
+	"type": "module",
+	"scripts": {
+		"dev:start": "nodemon lib/index.js",
+		"prod:start": "cross-env NODE_ENV=production node lib/index.js"
+	},
+	"engines": {
+		"node": "^16.0.0",
+		"npm": "^9.0.0"
+	},
+	"dependencies": {
+		"cors": "^2.8.5",
+		"cross-env": "^7.0.3",
+		"express": "^4.18.2",
+		"firebase-admin": "^11.5.0",
+		"mongoose": "^6.9.1",
+		"socket.io": "^4.6.0"
+	},
+	"devDependencies": {
+		"nodemon": "^2.0.20"
+	}
+}

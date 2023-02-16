@@ -1,0 +1,166 @@
+[
+	{
+		"_id": "c56d90e7-ed87-4bfa-a6d8-0b9add75efd6",
+		"name": "28 cu. ft. 3-Door French Door Refrigerator with Family Hub™ in Stainless Steel",
+		"price": 2299,
+		"manufacturer": "Samsung",
+		"url": "https://www.samsung.com/us/home-appliances/refrigerators/3-door-french-door/28-cu-ft-3-door-french-door-refrigerator-with-family-hub-in-stainless-steel-rf28t5f01sr-aa/",
+		"description": [
+			"Samsung's Stainless Steel 28 cu. Ft. 3-Door French Door Family Hub™ refrigerator has sleek-edge doors, EZ-Open Handle™ and helps you connect to what’s most important: your family and home, whenever and wherever.",
+			"Our Family Hub smart refrigerator comes equipped with all-around cooling, our Ice Max ice machine and a fingerprint resistant finish."
+		],
+		"tags": [
+			"refrigerator",
+			"appliances"
+		]
+	},
+	{
+		"_id": "4c7943e9-9fff-41d3-9eab-02ccde9c1ce7",
+		"name": "2.1 cu. ft. Smart Over-the-Range Microwave with ExtendaVent® 2.0",
+		"price": 469,
+		"manufacturer": "LG",
+		"url": "https://www.lg.com/us/cooking-appliances/lg-mvel2125f-over-the-range-microwave",
+		"description": [
+			"Elevate your kitchen with this sleek over-the-range microwave that delivers on both style and practicality.",
+			"The WideView™ window offers a modern point of view and the intuitive SmoothTouch™ glass controls complete the look while providing effortless operation, with just a touch of a finger."
+		],
+		"tags": [
+			"microwave",
+			"appliances"
+		]
+	},
+	{
+		"_id": "9b5aaf41-695b-44e6-8eaa-bdbcd2288e18",
+		"name": "4.5 Cu. Ft. Front Load Washer with Quick Wash Cycle",
+		"price": 849,
+		"manufacturer": "Whirlpool",
+		"url": "https://www.whirlpool.com/laundry/washers/front-load/p.4.5-cu.-ft.-front-load-washer-with-quick-wash-cycle.wfw5605mc.html",
+		"description": [
+			"Finish laundry fast with a large capacity front load washer that cleans over three baskets in one load.* Save on utility bills with this ENERGY STAR® Certified front load washer that meets ADA standards for accessible design.** Create customized cycles with Intuitive Controls and keep clean clothes fresh until drying in this large capacity washing machine with the Tumble Fresh Option."
+		],
+		"tags": [
+			"washer",
+			"appliances"
+		]
+	},
+	{
+		"_id": "87be7585-57ef-48e1-a68d-ceafe81c2231",
+		"name": "BRAVIA XR 65\" Class A90J 4K HDR OLED with Google TV (2021)",
+		"price": 2499.99,
+		"manufacturer": "Sony",
+		"url": "https://electronics.sony.com/tv-video/televisions/oled/p/xr65a90j",
+		"description": [
+			"COGNITIVE PROCESSOR XR™ – Revolutionary TV processing technology that understands how humans see and hear to deliver intense contrast with pure blacks, high peak brightness, and natural colors.",
+			"XR TRILUMINOS PRO™ - Rediscover everything you watch with billions of accurate colors and see impressive picture quality that is natural and beautiful to the human eye.",
+			"XR OLED CONTRAST PRO – Feel immersive depth and realism with ultimate blacks and our brightest-ever OLED picture."
+		],
+		"tags": [
+			"tv",
+			"electronics"
+		]
+	},
+	{
+		"_id": "c9e9f41b-9eba-44b3-8175-1fce58046ceb",
+		"name": "GE® 30\" Free-Standing Electric Convection Range with No Preheat Air Fry",
+		"price": 1110,
+		"manufacturer": "GE",
+		"url": "https://www.geappliances.com/appliance/GE-30-Free-Standing-Electric-Convection-Range-with-No-Preheat-Air-Fry-JB735EPES",
+		"description": [
+			"Cook healthier, crispier versions of your favorite foods in less time, thanks to an air fryer right in your oven that doesn’t require preheating, a basket or a special tray.",
+			"A dual burner cooktop lets you choose between 12-inch and 9-inch electric elements for a more convenient cooking experience"
+		],
+		"tags": [
+			"range",
+			"appliances"
+		]
+	},
+	{
+		"_id": "35d64237-c7d5-441f-91e0-15415725374c",
+		"name": "GE Profile™ 5.3 cu. ft. Capacity Washer with Smarter Wash Technology and FlexDispense™",
+		"price": 999,
+		"manufacturer": "GE",
+		"url": "https://www.geappliances.com/appliance/GE-Profile-5-3-cu-ft-Capacity-Washer-with-Smarter-Wash-Technology-and-FlexDispense-PTW905BPTRS",
+		"description": [
+			"The Alexa Built In recognizes thousands of voice command combinations to automatically adjust washer settings to care for specific fabrics and optimal stain removal. And like all Alexa speakers, it tells you the weather, plays music and more.",
+			"Save time and effort with a dispenser that holds enough detergent for up to 32 loads. Plus, scan the barcode on the detergent bottle with the SmartHQ™ app and the washer will dispense the right amount based on the type of detergent."
+		],
+		"tags": [
+			"washer",
+			"appliances"
+		]
+	},
+	{
+		"_id": "7b23841f-ba13-47c0-9fd5-e6678ad6a00d",
+		"name": "LG 55 Inch Class A2 PUA series OLED 4K UHD Smart webOS 22 w/ ThinQ AI TV\n",
+		"price": 899.99,
+		"manufacturer": "LG",
+		"url": "https://www.lg.com/us/tvs/lg-oled55a2pua",
+		"description": [
+			"Experience the Power of OLED - Get ready to turn on the possibilities with the beauty and power of our most advanced line of TVs—the LG OLED, bringing you the best streaming and entertainment experiences possible.*",
+			"Self-Lit Pixels | Love at First Sight - Our self-lit OLED pixels bring to life infinite contrast, perfect black and over a billion colors that add depth and bring out the bold, brazen and beautiful no matter what you’re watching."
+		],
+		"tags": [
+			"tv",
+			"electronics"
+		]
+	},
+	{
+		"_id": "c4fb24ea-f42e-4803-983b-cc1aa5656df8",
+		"name": "LG 77 Inch Class B2 PUA series OLED 4K UHD Smart webOS 22 w/ ThinQ AI TV",
+		"price": 1999.99,
+		"manufacturer": "LG",
+		"url": "https://www.lg.com/us/tvs/lg-oled77b2pua",
+		"description": [
+			"Be in the Action with OLED - Experience a lightning-fast refresh rate, the gaming features you crave and the 4K resolution you want—all wrapped up in a beautiful premium OLED package.",
+			"Self-Lit Pixels | Love at First Sight - Our self-lit OLED pixels bring to life infinite contrast, perfect black and over a billion colors that add depth and bring out the bold, brazen and beautiful no matter what you’re watching.",
+			"α7 Gen5 AI Processor 4K | Seeing It Is Believing It - Experience a lifelike picture with more depth and richer colors thanks to our advanced α7 Gen5 AI Processor 4K that adjusts picture and sound qualities to give you a fabulous experience no matter what you’re watching."
+		],
+		"tags": [
+			"tv",
+			"electronics"
+		]
+	},
+	{
+		"_id": "cbc2a4bf-1cbc-4072-9e6b-28376b721204",
+		"name": "LG S90QY 5.1.3 ch High Res Audio Sound Bar with Dolby Atmos® and Apple Airplay 2",
+		"price": 699.99,
+		"manufacturer": "LG",
+		"url": "https://www.lg.com/us/sound-bars/lg-s90qy",
+		"description": [
+			"Home Theater's Secret Weapon - Experience an amazing, premium sound system that features the world’s first sound bar with up-firing center channel for crystal-clear dialogue and a powerful subwoofer that is sure to bring out the goosebumps.",
+			"5.1.3 Channel 570W | Hear It & Believe It - Immerse yourself in a stunning sound experience with 5.1.3 channels—including the world’s first sound bar with up-firing center channel that lets you hear every piece of dialogue clearly—and 570W for an impressive home theater sound setup."
+		],
+		"tags": [
+			"soundbar",
+			"electronics"
+		]
+	},
+	{
+		"_id": "1047c82e-77da-497b-b766-7343dcaca509",
+		"name": "6.3 cu. ft. Smart Freestanding Electric Range with No-Preheat Air Fry & Convection in Black",
+		"price": 1049,
+		"manufacturer": "Samsung",
+		"url": "https://www.samsung.com/us/home-appliances/ranges/electric/6-3-cu--ft--smart-freestanding-electric-range-with-no-preheat-air-fry---convection-in-black-ne63a6511sb-aa/",
+		"description": [
+			"Elevate the look of your kitchen with the new Smart Freestanding Electric Range. Our Stainless Steel design elegantly wraps around cooktop sides and up through the slim control panel. Upgraded technology makes cooking simple and fun."
+		],
+		"tags": [
+			"range",
+			"appliances"
+		]
+	},
+	{
+		"_id": "f952cf66-85cd-4acd-a33e-d1f05924a546",
+		"name": "StormWash™ 48 dBA Dishwasher in Stainless Steel",
+		"price": 809,
+		"manufacturer": "Samsung",
+		"url": "https://www.samsung.com/us/home-appliances/dishwashers/rotary/stormwash--48-dba-dishwasher-in-stainless-steel-dw80r5060us-aa/",
+		"description": [
+			"Powerful rotating jets clean pots and pans without prewashing, while a 48 dBA sound level offers silent washes and a quieter kitchen."
+		],
+		"tags": [
+			"dishwasher",
+			"appliances"
+		]
+	}
+]

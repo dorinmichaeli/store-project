@@ -1,0 +1,29 @@
+{
+	"server": {
+		"port": 3000,
+		"hostname": "localhost"
+	},
+	"mongo": {
+		"host": "localhost",
+		"port": 27017,
+		"username": "mongo_admin",
+		"password": "234345",
+		"database": "college"
+	},
+	"assets": {
+		"itemImages": "./data/images/",
+		"clientFiles": "../client/dist/"
+	},
+	"firebase": {
+		"apiKey": "AIzaSyAWILUsZ8eGWzgH1Ag_Zs1Yysp14zTZsOc",
+		"authDomain": "college-project-7ea81.firebaseapp.com",
+		"projectId": "college-project-7ea81",
+		"storageBucket": "college-project-7ea81.appspot.com",
+		"messagingSenderId": "569744094891",
+		"appId": "1:569744094891:web:c0f0ab12634ae60aa6e9ee"
+	},
+	"admins": [
+		"levi2p@gmail.com",
+		"ibrahimk223@googlemail.com"
+	]
+}
